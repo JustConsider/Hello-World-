@@ -1,2 +1,2 @@
-# Hello-World-
+# Hello-World
 Mikhail's repository welcomes you
